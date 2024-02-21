@@ -1,17 +1,24 @@
-Project for the course Computational Optimal Transport, Master MVA
+# Computational Optimal Transport Project
 
+## Overview
 
-Review of the paper : "Optimal spectral transportation with application to music transcription", R. Flamary, N. Courty (https://arxiv.org/pdf/1609.09799.pdf).
+This project is a comprehensive study and application of the paper titled "Optimal spectral transportation with application to music transcription" by R. Flamary and N. Courty. The objective is to explore the methodologies and implications of optimal spectral transportation in the context of music transcription.
 
-Original repository : 
+[Read the original paper](https://arxiv.org/pdf/1609.09799.pdf)
 
+## Repository Contents
 
-This repository contains the following : 
+- `Report.pdf`: A detailed report of my work and findings based on the original paper.
+- `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
+- `ost.py`: Python implementation of the optimal spectral transportation algorithm.
+- `simulated_data.py`: Scripts for generating simulated data to test and evaluate the algorithm.
+- `Source.pdf`: The original article that forms the basis of this project's study.
 
-Report.pdf and Slides.pdf contain the report of my work, based on the source article
+## Original Repository
 
-ost.py and simulated_data.py contain the Python code of my experiments
+The code and methodologies implemented in this project are based on the original repository by R. Flamary:
 
-Source.pdf, which is the original article to study
+[https://github.com/rflamary/OST](https://github.com/rflamary/OST)
+
 
 
