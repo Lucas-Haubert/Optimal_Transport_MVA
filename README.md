@@ -12,7 +12,6 @@ This project is a comprehensive study and application of the paper titled "Optim
 - `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
 - `ost.py`: Python implementation of the optimal spectral transportation algorithm.
 - `simulated_data.py`: Scripts for generating simulated data to test and evaluate the algorithm.
-- `Source.pdf`: The original article that forms the basis of this project's study.
 
 ## Original Repository
 
