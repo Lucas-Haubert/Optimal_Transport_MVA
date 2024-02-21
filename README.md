@@ -1,4 +1,4 @@
-Project for the course Computational Optimal Transport
+Project for the course Computational Optimal Transport, Master MVA
 
 Review of the paper : "Optimal spectral transportation with application to music transcription"
 
@@ -10,3 +10,7 @@ Review of the paper : "Optimal spectral transportation with application to music
       archivePrefix={arXiv},
       primaryClass={stat.ML}
 }
+
+This repository contains the following : 
+
+Report.pdf and Slides.pdf contain the report of my work, based on the source article
