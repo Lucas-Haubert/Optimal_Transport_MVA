@@ -1,6 +1,6 @@
 Project for the course Computational Optimal Transport, Master MVA
 
-Review of the paper : "Optimal spectral transportation with application to music transcription"
+Review of the paper : "Optimal spectral transportation with application to music transcription" (https://arxiv.org/pdf/1609.09799.pdf).
 
 @misc{flamary2016optimal,
       title={Optimal spectral transportation with application to music transcription}, 
