@@ -19,5 +19,9 @@ The code and methodologies implemented in this project are based on the original
 
 [https://github.com/rflamary/OST](https://github.com/rflamary/OST)
 
+## Grade and acknowledgements
 
+Final grade of the project : 16/20
+
+I would like to acknowledge Professor Gabriel Peyré, ENS Ulm, for his course of Computational Optimal Transport, part of the MVA master's program.
 
